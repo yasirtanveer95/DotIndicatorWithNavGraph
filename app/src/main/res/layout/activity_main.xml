@@ -23,8 +23,8 @@
             android:padding="6dp"
             app:srcCompat="@drawable/ic_back" />
 
-        <LinearLayout
-            android:id="@+id/llDots"
+        <androidx.compose.ui.platform.ComposeView
+            android:id="@+id/dotsComposeView"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_centerInParent="true"
@@ -32,8 +32,7 @@
             android:layout_marginEnd="5dp"
             android:layout_toStartOf="@id/ivCross"
             android:layout_toEndOf="@id/ivBack"
-            android:gravity="center"
-            android:orientation="horizontal" />
+            android:gravity="center" />
 
         <ImageView
             android:id="@+id/ivCross"

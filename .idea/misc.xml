@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Test Project/DotIndicatorWithNavGraph/app/src/main/res/drawable/selected_dot.xml" value="0.2065" />
+        <entry key="..\:/Test Project/DotIndicatorWithNavGraph/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
         <entry key="..\:/Test Project/DotInticatorNavgraph/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
         <entry key="..\:/Test Project/DotInticatorNavgraph/app/src/main/res/layout/fragment_blank1.xml" value="0.36666666666666664" />
         <entry key="..\:/Test Project/DotInticatorNavgraph/app/src/main/res/layout/fragment_blank2.xml" value="0.36666666666666664" />
